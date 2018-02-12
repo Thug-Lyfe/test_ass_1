@@ -1,8 +1,11 @@
 
 # test_ass_1
 
+
+
+
 | Case          | Expected output |
-| —---------— |:-------------: | 
+| ---------- |:---------: | 
 | [3,3,3]       | equilateral |
 | [3,3,2]   | Isosceles triangle |  
 | [0,1,2],[0,0,0],[0,0,1],[2,2,4] | Not triangle      |  
