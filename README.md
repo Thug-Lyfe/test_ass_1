@@ -25,6 +25,6 @@ Conclusions:
 
 run all tests with node triangle.js
 expected output
-![alt text](https://github.com/Thug-Lyfe/test_ass_1/edit/master/1.png "expected output")
+![alt text](https://github.com/Thug-Lyfe/test_ass_1/blob/master/1.png "expected output")
 
 
