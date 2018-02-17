@@ -8,10 +8,10 @@
 | ---------- |:---------: | 
 | [3,3,3]       | equilateral |
 | [3,3,2]   | Isosceles triangle |  
-| [0,1,2],[0,0,0],[0,0,1],[2,2,4] | Not triangle      |  
-| [“2”,1,2],[“&”,2,2] | Not triangle, contains string      | 
-| Any value is zero | not triangle    |    
 | [4,5,6] | Scalene triangle |
+| [0,1,2],[0,0,0],[0,0,1],[2,2,4] | Not a triangle. a triangle with a side of "0" is not a triangle    |  
+| [“2”,1,2],[“&”,2,2] | Not a triangle. contains string      |   
+
 
 Conclusions:
 
@@ -22,9 +22,10 @@ Conclusions:
 5. None of the sides equal to each other: Scalene triangle
 
 
-
-run all tests with node triangle.js
-expected output
+## how to run?
+1. go to code location and run: npm install
+2. then run: node test.js
+Expected output:
 ![alt text](https://github.com/Thug-Lyfe/test_ass_1/blob/master/1.png "expected output")
 
 
