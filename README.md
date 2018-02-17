@@ -2,8 +2,6 @@
 # test_ass_1
 
 
-
-
 | Case          | Expected output |
 | ---------- |:---------: | 
 | [3,3,3]       | equilateral |
@@ -25,6 +23,7 @@ Conclusions:
 ## how to run?
 1. go to code location and run: npm install
 2. then run: node test.js
+
 Expected output:
 
 ![alt text](https://github.com/Thug-Lyfe/test_ass_1/blob/master/1.png "expected output")
