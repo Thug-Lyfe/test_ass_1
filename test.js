@@ -9,10 +9,6 @@ let it = junit();
             it(arr_res[arr[i][3]]+" test ", () => triangle.func_tri(arr[i][0], arr[i][1], arr[i][2], (ele) => {
             it.eq(ele, arr[i][3]);
             }))}
-            
-
             // Get the result of the test. 
             let { total, tested, passed, failed } = await it.run();
-
-            console.log(total, tested, passed, failed);
         })();
