@@ -9,8 +9,8 @@
 | [3,3,3]       | equilateral |
 | [3,3,2]   | Isosceles triangle |  
 | [4,5,6] | Scalene triangle |
-| [0,1,2],[0,0,0],[0,0,1],[2,2,4] | Not a triangle. a triangle with a side of "0" is not a triangle    |  
-| [“2”,1,2],[“&”,2,2] | Not a triangle. contains string      |   
+| [0,1,2],[0,0,0],[0,0,1],[2,2,4] | Not a triangle. A triangle with a side of "0" is not a triangle    |  
+| [“2”,1,2],[“&”,2,2] | Not a triangle. Contains a string      |   
 
 
 Conclusions:
